@@ -1,0 +1,6 @@
+Tipos de Joins
+	--> INNER JOIN --> coincidencias
+	--> OUTER JOIN --> NO coincidencias
+				--> left outer join 
+				--> right outer join
+	--> CROSS JOIN --> producto cartesiano
