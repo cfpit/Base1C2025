@@ -1,0 +1,18 @@
+RESTRICCIONES O CONSTRAINTS
+
+	--> PK clave primaria 
+		--> evita valores duplicados
+		--> no acepta NULL
+		--> puede haber 0 o 1 por tabla
+		--> pk simple o compuesta
+		--> generalmente es el codigo o id
+	--> FK clave foranea
+		--> se lo usa para la integridad referencial
+	--> UQ clave unica
+		--> evita valores duplicados
+		--> si acepta NULL
+		--> puede haber 0 o N por tabla
+	--> CK check
+		--> valida valores de entrada en los INSERT
+	--> DF default
+		--> adopta un valor por defecto cuando no se indique lo contrario
